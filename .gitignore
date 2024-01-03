@@ -32,3 +32,6 @@ SQLiteCpp_example1
 SQLiteCpp_tests
 
 !FindSQLiteCpp.cmake
+
+cmake-build-debug
+build-ios
